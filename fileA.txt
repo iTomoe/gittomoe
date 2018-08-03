@@ -1,0 +1,2 @@
+vim "name of the file" 
+terminal de text modification dekiru.
